@@ -1,0 +1,27 @@
+{
+  "name": "cho-no-yoru",
+  "displayName": "Chō no Yoru",
+  "description": "Night of the Butterfly",
+  "version": "0.0.1",
+  "author": {
+    "name": "little-kaii",
+    "email": "akashdebnathwd@gmail.com",
+    "url": "https://github.com/little-kaii/night-butterfly"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "night butterfly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night butterfly-color-theme.json"
+      }
+    ]
+  }
+}
