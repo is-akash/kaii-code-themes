@@ -1,9 +1,10 @@
 {
-  "name": "cho-no-yoru",
-  "displayName": "Chō no Yoru",
-  "description": "Night of the Butterfly",
-  "version": "1.1.1",
+  "name": "kaii-code-themes",
+  "displayName": "Kaii Code Themes",
+  "description": "dark vs code themes by little-kaii",
+  "version": "2.0.0",
   "publisher": "little-kaii",
+  "icon": "icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/little-kaii/night-butterfly"
@@ -11,8 +12,8 @@
   "keywords": [
     "theme",
     "dark theme",
-    "cho no yoru",
-    "night-butterfly",
+    "kai code themes",
+    "dark+ themes",
     "github dark theme"
   ],
   "author": {
@@ -30,9 +31,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "night butterfly",
+        "label": "kaii dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/night butterfly-color-theme.json"
+        "path": "./themes/kaii-dark.json"
+      },
+      {
+        "label": "kaii dark plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaii-dark-plus.json"
       }
     ]
   }

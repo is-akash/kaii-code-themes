@@ -82,7 +82,7 @@
         "list.inactiveSelectionForeground": "#c8d1df",
         "list.errorForeground": "#d16969",
         "list.dropBackground": "#1e293e",
-        "list.warningForeground": "#e8c37d", // Something needs to be done
+        "list.warningForeground": "#e8c37d",
         "tab.activeBorderTop": "#88abf9",
         "panel.border": "#1e293e",
         "peekViewEditor.matchHighlightBackground": "#131c2a",
@@ -241,7 +241,6 @@
             }
         },
 
-        // Prisma
         {
             "name": "Mutation type",
             "scope": [
@@ -290,10 +289,9 @@
             ],
             "settings": {
                 "foreground": "#b38098",
-                "fontStyle": "italic" // KEEP ITALIC
+                "fontStyle": "italic"
             }
         },
-        // APOLLO GQL
         {
             "name": "String quotes and ${}",
             "scope": [
@@ -322,7 +320,6 @@
             }
         },
 
-        // STYLED COMPONENTS
         {
             "name": "single variable",
             "scope": ["source.css meta.property-list.media-query"],
@@ -485,7 +482,6 @@
                 "foreground": "#c8d1df"
             }
         },
-        // Clojure
         {
             "scope": "constant.keyword.clojure",
             "settings": {
@@ -546,7 +542,6 @@
                 "foreground": "#88abf9"
             }
         },
-        // Global
         {
             "scope": "meta.objectliteral",
             "settings": {
@@ -569,7 +564,7 @@
             "name": "Comment",
             "scope": ["comment", "punctuation.definition.comment"],
             "settings": {
-                "fontStyle": "italic", // KEEP ITALIC
+                "fontStyle": "italic",
                 "foreground": "#6c8093"
             }
         },
@@ -940,7 +935,7 @@
             "name": "Markup - Italic",
             "scope": ["markup.italic"],
             "settings": {
-                "fontStyle": "italic", // KEEP ITALIC
+                "fontStyle": "italic",
                 "foreground": "#c8d1df"
             }
         },
@@ -989,7 +984,6 @@
                 "markup.quote punctuation.definition.blockquote.markdown"
             ],
             "settings": {
-                // "background": "#c8d1df",
                 "foreground": "#c8d1df"
             }
         },
@@ -1066,7 +1060,6 @@
             "scope": ["meta.separator"],
             "settings": {
                 "fontStyle": "bold",
-                // "background": "#00000050",
                 "foreground": "#c8d1df"
             }
         },

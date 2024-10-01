@@ -1,12 +1,8 @@
-# Chō no Yoru ( Night of the Butterfly )
+## kaii-code-themes
 
-## My first vs code theme
+##### None of the themes I tried fully satisfied me, so I decided to create my own, drawing inspiration from my favorite collection.
 
-None of the themes I tried fully satisfied me, so I decided to create my own, drawing inspiration from my favorite collection.
-
-## Preview
-
-![Preview Image](./previews/1.PNG)
+![Preview Image](./previews/preview.png);
 
 contact : [Twitter-X](https://x.com/_little_kaii)
 
