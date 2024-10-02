@@ -31,14 +31,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "kaii dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaii-dark.json"
-      },
-      {
         "label": "kaii dark plus",
         "uiTheme": "vs-dark",
         "path": "./themes/kaii-dark-plus.json"
+      },
+      {
+        "label": "kaii dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaii-dark.json"
       }
     ]
   }
